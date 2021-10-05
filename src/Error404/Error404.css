@@ -1,0 +1,14 @@
+
+.error {
+    display: flex;
+    width: 250px;
+    height: 400px;
+    margin: auto;
+}
+
+.error404 {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
